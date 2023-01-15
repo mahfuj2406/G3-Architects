@@ -219,6 +219,7 @@ main {
     border-radius: 8px;
     animation: myfirst 2s linear 0s infinite;
 }
+/* This is the style for border animation for extra and bonus marks */
 @keyframes myfirst {
     0%   {border-top:2px solid green;}
     33%  {border-right:3px solid green;}
@@ -533,6 +534,7 @@ main {
     justify-content: center;
     align-items: center;
 }
+/* Responsive sponsor section styles  */
 .sponsor-logo{
     display: grid;
     grid-template-columns: repeat(1, 1fr);
